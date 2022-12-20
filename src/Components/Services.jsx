@@ -6,7 +6,7 @@ import img2 from "../Assets/p4.jpg";
 const Services = () => {
   return (
     <div className="services">
-      Services
+      Service
       <Carousel>
         <div>
           <img src={img1} alt="Item1" />
